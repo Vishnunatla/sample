@@ -4,7 +4,7 @@
     font-family: Century Gothic;
 }
 header{
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.4), rgba(0,0,0,0.3)), url(../practice1/nitc.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.4), rgba(0,0,0,0.3)), url(../nitc.jpg);
     height: 100vh;
     background-size: cover;
     background-position-x: center;
